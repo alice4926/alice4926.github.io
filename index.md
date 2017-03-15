@@ -1,6 +1,7 @@
 <h3>About me</h3>
 <p>
-  Hi! I am Alice. I am now a Master student in Statistics at University of California Davis and will graduate on June 2017.
+  Hi! I am Ying-Chen (Alice) Chou. 
+  I am now a Master student in Statistics at University of California Davis and will graduate on June 2017.
   I enjoy identifying the underlying patterns from the collected data, and applying mathematical and statistical models to solve practical problems.
   I have skills in R, Python, SQL, Tableau, and Git.
   I am interested in the fields including but not limited to technology, healthcare, business and environment issues. 
