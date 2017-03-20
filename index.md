@@ -1,4 +1,4 @@
-<h2>I am Ying-Chen Chou. <br> Welcome to my website to explore more about me, my learning path on data analysis, and my projects!</h2>
+<p>I am Ying-Chen Chou. <br> Welcome to my website to explore more about me, my learning path on data analysis, and my projects!</p>
 
 <h3>About me</h3>
 
