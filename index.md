@@ -11,7 +11,7 @@
 
 <h3> Education </h3>
 <p>
-<li> MS in Statistics, University of California Davis</li>
+MS in Statistics, University of California Davis
         <blockquote>
                 <p> 
                 <li> Davis, CA &nbsp; 2015 to Present </li>
@@ -20,7 +20,7 @@
                 </blockquote>
 </p>
 <p>
-<li> BS in Statistics, National Chengchi University </li>
+BS in Statistics, National Chengchi University
         <blockquote>
                 <p> 
                 <li> Taipei, Taiwan &nbsp; 2010 to 2015 </li>
