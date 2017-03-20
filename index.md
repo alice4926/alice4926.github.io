@@ -1,5 +1,5 @@
-<h2> I am Ying-Chen Chou. </h2>
-<h3>Welcome to my website to know more about me, my plans and my <a class="link" href="/project">projects</a>!</h3>
+<h2> I am Ying-Chen Chou. <br>
+Welcome to know more about me, my plans and my <a class="link" href="/project">projects</a>!</h2>
 
 <br>
 <p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
@@ -26,5 +26,5 @@ My interest in statistics is wide. I am intersted in the field including busines
 
 </article>
 <h3> More about me</h3>
-<p><img src="//pic/USA_map.jpg" style="float:left;margin:0 20px 20px;"></p>
+<p><img src="/pic/USA_map.jpg" style="float:left;margin:0 20px 20px;"></p>
 <p>  I love eating, cooking and baking! Before I come to UC Davis for my master degree, I used to plan to enroll in the program in Le Cordon Bleu. Also, I enjoyed travel. During the summer break in 2016, my friend and I went on a road trip and drove 17000 miles in 66 days to made our dream of traveling around the United State come true!! </p>
