@@ -1,29 +1,31 @@
-<p>I am Ying-Chen Chou. <br> Welcome to my website to explore more about me, my learning path on data analysis, and my projects!</p>
-
-<h3>About me</h3>
+<h3>
+I am Ying-Chen Chou. <br> 
+Welcome to my website to know more about me, my plans and my projects!
+</h3>
 
 <p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
-
+ 
+<h4> Who am I? </h4>
 <p>
-  Hi! I am Ying-Chen (Alice) Chou. 
-  I am now a Master student in Statistics at University of California Davis and will graduate on June 2017.
+  I am a Master student in Statistics at University of California Davis and will graduate on June 2017.
   I enjoy identifying the underlying patterns from the collected data, and applying mathematical and statistical models to solve practical problems.
   I have skills in R, Python, SQL, Tableau, and Git.
   I am interested in the fields including but not limited to technology, healthcare, business and environment issues. 
 </p>
 
-<h3>Education</h3>
+<h4> Education </h4>
 <p>
 <li> MS in Statistics, University of Davis</li>
 <li> BS in Statistics, National Chengchi University</li>
 </p>
 
-<h3>Skills</h3>
+<h4> My Skills and Interest in Data Science </h4>
 <article>
-<li> R: 5-year experience in Data Manipulation, Data Visualization, and Regular Expression.</li>
-<li> Python: Familiar with Numpy, Pandas, Matplotlib and BeautifulSoup.</li>
-<li> Database: SQL and Access</li>
+As a statistics major for 6 years, I've taken several courses including Regression, ANOVA, Time Series Analysis, 
+Categorical Data Analysis, Statistical Computing. I have skills in R, Python, SQL, Tableau, and Git. 
+My interest in statistics is wide. I am intersted in the field including business, biostatistics, social science and environmental issue. As a student in business school during my bachelor years, my research mainly focused on analyzing business data and provide recommendations to improve performance of companies. Recently, I pay more attention to data visualization and Machine Learning. In near future, there will be more project about my work in data science upload and you can access my project <a class="link" href="/project">here</a>!
+
 </article>
 
-<h3>My Interest in Data Science</h3>
-
+<h4> More about me</h4>
+<p>  I love eating, cooking and baking! Before I come to UC Davis for my master degree, I used to plan to enroll in the program in Le Cordon Bleu. Also, I enjoyed travel. During the summer break in 2016, my friend and I went on a road trip and drove 17000 miles in 66 days to made our dream of traveling around the United State come true!!
