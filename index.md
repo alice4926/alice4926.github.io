@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-<p><img src="/pic/houseshoe_bend.jpg" style="float:left;margin:0 20px 20px;width:290px;height:417px"></p>
+<p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
 
 <p>
   Hi! I am Ying-Chen (Alice) Chou. 
