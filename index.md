@@ -1,3 +1,5 @@
+<h2>I am Ying-Chen Chou. Welcome to my website to explore more about me, my learning path on data analysis, and my projects!</h2>
+
 <h3>About me</h3>
 
 <p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
