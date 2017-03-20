@@ -1,7 +1,7 @@
 <h2> Welcome to know more about me, my plans and my <a href="/project">projects</a>!</h2>
 
 <br>
-<p><img src="/pic/houseshoe_bend.jpg" style="max-width: 100%;width: 400px;" width="400" ></p>
+<p><img src="/pic/houseshoe_bend.jpg" style="max-width: 100%;width: 300px;" width="300" ></p>
 
 
 <h3> Who am I? </h3>
