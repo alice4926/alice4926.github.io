@@ -1,7 +1,7 @@
 <h2> I am Ying-Chen Chou. <br>
 Welcome to know more about me, my plans and my <a href="/project">projects</a>!</h2>
 
-<p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:250px;height:359px"></p>
+<p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:230px;height:330.28px"></p>
 <br>
 <p>
   I am a Master student in Statistics at University of California Davis and will graduate on June 2017.
@@ -9,13 +9,12 @@ Welcome to know more about me, my plans and my <a href="/project">projects</a>!<
   I have skills in R, Python, SQL, Tableau, and Git.
   I am interested in the fields including but not limited to technology, healthcare, business and environment issues. 
 </p>
-<br>
 <h3> Education </h3>
 <p>
 <li> MS in Statistics, University of Davis</li>
 <li> BS in Statistics, National Chengchi University</li>
 </p>
-
+<br>
 <h3> My Skills and Interest in Data Science </h3>
 <article>
 As a statistics major for 6 years, I've taken several courses including Regression, ANOVA, Time Series Analysis, 
