@@ -31,8 +31,8 @@ As a statistics major for 6 years, I've taken several courses including Regressi
 Categorical Data Analysis, Statistical Computing. I have skills in R, Python, SQL, Tableau, and Git. 
 My interest in statistics is wide. I am intersted in the field including business, biostatistics, social science and environmental issue. As a student in business school during my bachelor years, my research mainly focused on analyzing business data and provide recommendations to improve performance of companies. Recently, I pay more attention to data visualization and Machine Learning. In near future, there will be more project about my work in data science uploaded.
 </article>
-<p><img src="/pic/USA_map.jpg" style="float:right;margin:0 20px 20px;width:320px;height:240px"></p>
 <h3> <strong> More about me </strong> </h3>
+<p><img src="/pic/USA_map.jpg" style="float:right;margin:0 20px 20px;width:320px;height:240px"></p>
 <p>I love eating, cooking and baking! Before I come to UC Davis for my master degree, I even planed to enroll in the program in Le Cordon Bleu to advance my skills in baking. Also, I enjoyed travel. During the summer break in 2016, my friend and I went on a road trip and drove 17000 miles in 66 days to made our dream of traveling around the United State come true!! 
 <br>
 <br>
