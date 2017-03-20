@@ -1,12 +1,12 @@
-<h2> Welcome to know more about me, my plans and my <a href="/project">projects</a>!</h2>
+<h2><strong> Welcome to know more about me, my plans and my <a href="/project">projects</a>!</strong></h2>
 <p><img src="/pic/houseshoe_bend.jpg" style="max-width: 100%;width: 250px;" width="250" ></p>
 
-<h3> Who am I? </h3>
+<h3> <strong>Who am I? </strong></h3>
 <p>
   Hi! I am Ying-Chen Chou. I grow up on a beautiful country called Taiwan in East Asia and right now live in California, USA. I am a Master student in University of California Davis and will graduate on June 2017. My life goal is to become a person who can make the world better by exercing my knowledge for data and my passion for technology.
 </p>
-
-<h3> Education </h3>
+<br>
+<h3> <strong>Education </strong></h3>
 <p>
 MS in Statistics, University of California Davis
         <blockquote>
@@ -26,8 +26,8 @@ BS in Statistics, National Chengchi University
                 </p>
                 </blockquote>
 </p>
-
-<h3> My Skills and Interest in Data Science </h3>
+<br>
+<h3> <strong>My Skills and Interest in Data Science </strong> </h3>
 <article>
 As a statistics major for 6 years, I've taken several courses including Regression, ANOVA, Time Series Analysis, 
 Categorical Data Analysis, Statistical Computing. I have skills in R, Python, SQL, Tableau, and Git. 
