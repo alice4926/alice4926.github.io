@@ -29,7 +29,6 @@ BS in Statistics, National Chengchi University
                 </p>
                 </blockquote>
 </p>
-<br>
 
 <h3> My Skills and Interest in Data Science </h3>
 <article>
