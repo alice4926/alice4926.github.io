@@ -1,8 +1,7 @@
 <h2> I am Ying-Chen Chou. <br>
 Welcome to know more about me, my plans and my <a href="/project">projects</a>!</h2>
 
-<p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:230px;height:330.28px"></p>
-<br>
+<p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:250px;height:359px"></p>
 <p>
   I am a Master student in Statistics at University of California Davis and will graduate on June 2017.
   I enjoy identifying the underlying patterns from the collected data, and applying mathematical and statistical models to solve practical problems.
@@ -11,8 +10,11 @@ Welcome to know more about me, my plans and my <a href="/project">projects</a>!<
 </p>
 <h3> Education </h3>
 <p>
-<li> MS in Statistics, University of Davis</li>
-<li> BS in Statistics, National Chengchi University</li>
+<li> MS in Statistics, University of California Davis</li>
+        <blockquote>
+                <p> Davis, CA &nbsp; 2015 to Present </p>
+                </blockquote>
+<li> BS in Statistics, National Chengchi University </li>
 </p>
 <br>
 <h3> My Skills and Interest in Data Science </h3>
