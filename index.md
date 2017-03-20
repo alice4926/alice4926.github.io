@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-<p><img src="/pic/houseshoe_bend.jpg" style="float:left;margin:0 20px 20px;width:260px;height:347.5px"></p>
+<p><img src="/pic/houseshoe_bend.jpg" style="float:left;margin:0 20px 20px;width:250px;height:347.5px"></p>
 <br>
 <br>
 <br>
