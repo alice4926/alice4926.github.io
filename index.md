@@ -1,7 +1,7 @@
 <h2> I am Ying-Chen Chou. <br>
 Welcome to know more about me, my plans and my <a href="/project">projects</a>!</h2>
 
-<p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
+<p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:250px;height:359px"></p>
 <br>
 <p>
   I am a Master student in Statistics at University of California Davis and will graduate on June 2017.
