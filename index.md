@@ -14,9 +14,21 @@ Welcome to know more about me, my plans and my <a href="/project">projects</a>!<
 <p>
 <li> MS in Statistics, University of California Davis</li>
         <blockquote>
-                <p> Davis, CA &nbsp; 2015 to Present </p>
+                <p> 
+                <li> Davis, CA &nbsp; 2015 to Present </li>
+                <li> Data Scientist Intern in UC Davis Center for Water-Energy Efficiency </li>
+                </p>
                 </blockquote>
+</p>
+<p>
 <li> BS in Statistics, National Chengchi University </li>
+        <blockquote>
+                <p> 
+                <li> Taipei, Taiwan &nbsp; 2010 to 2015 </li>
+                <li> Certificate in Mathematical Finance Program </li>
+                <li> R Programmer and Data Analyst in the Department of Management Information Systems</li>
+                </p>
+                </blockquote>
 </p>
 <br>
 <h3> My Skills and Interest in Data Science </h3>
