@@ -18,7 +18,7 @@ Welcome to know more about me, my plans and my <a href="/project">projects</a>!<
 <li> BS in Statistics, National Chengchi University</li>
 </p>
 
-<h4> My Skills and Interest in Data Science </h4>
+<h3> My Skills and Interest in Data Science </h3>
 <article>
 As a statistics major for 6 years, I've taken several courses including Regression, ANOVA, Time Series Analysis, 
 Categorical Data Analysis, Statistical Computing. I have skills in R, Python, SQL, Tableau, and Git. 
