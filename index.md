@@ -2,15 +2,14 @@
 Welcome to know more about me, my plans and my <a href="/project">projects</a>!</h2>
 
 <p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
- 
-<h3> Who am I? </h3>
+
 <p>
   I am a Master student in Statistics at University of California Davis and will graduate on June 2017.
   I enjoy identifying the underlying patterns from the collected data, and applying mathematical and statistical models to solve practical problems.
   I have skills in R, Python, SQL, Tableau, and Git.
   I am interested in the fields including but not limited to technology, healthcare, business and environment issues. 
 </p>
-
+<br>
 <h3> Education </h3>
 <p>
 <li> MS in Statistics, University of Davis</li>
