@@ -1,11 +1,12 @@
-<h3>
+<h2>
 I am Ying-Chen Chou. <br> 
 Welcome to my website to know more about me, my plans and my projects!
-</h3>
+</h2>
 
+<br>
 <p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
  
-<h4> Who am I? </h4>
+<h3> Who am I? </h3>
 <p>
   I am a Master student in Statistics at University of California Davis and will graduate on June 2017.
   I enjoy identifying the underlying patterns from the collected data, and applying mathematical and statistical models to solve practical problems.
@@ -13,7 +14,7 @@ Welcome to my website to know more about me, my plans and my projects!
   I am interested in the fields including but not limited to technology, healthcare, business and environment issues. 
 </p>
 
-<h4> Education </h4>
+<h3> Education </h3>
 <p>
 <li> MS in Statistics, University of Davis</li>
 <li> BS in Statistics, National Chengchi University</li>
@@ -27,5 +28,5 @@ My interest in statistics is wide. I am intersted in the field including busines
 
 </article>
 
-<h4> More about me</h4>
+<h3> More about me</h3>
 <p>  I love eating, cooking and baking! Before I come to UC Davis for my master degree, I used to plan to enroll in the program in Le Cordon Bleu. Also, I enjoyed travel. During the summer break in 2016, my friend and I went on a road trip and drove 17000 miles in 66 days to made our dream of traveling around the United State come true!!
