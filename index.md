@@ -39,8 +39,7 @@ My interest in statistics is wide. I am intersted in the field including busines
 </article>
 <h3> More about me</h3>
 <p><img src="/pic/USA_map.jpg" style="float:right;margin:0 20px 20px;width:320px;height:240px"></p>
-<p> <br> I love eating, cooking and baking! Before I come to UC Davis for my master degree, I used to plan to enroll in the program in Le Cordon Bleu. Also, I enjoyed travel. During the summer break in 2016, my friend and I went on a road trip and drove 17000 miles in 66 days to made our dream of traveling around the United State come true!! 
-<br>
+<p>I love eating, cooking and baking! Before I come to UC Davis for my master degree, I used to plan to enroll in the program in Le Cordon Bleu. Also, I enjoyed travel. During the summer break in 2016, my friend and I went on a road trip and drove 17000 miles in 66 days to made our dream of traveling around the United State come true!! 
 <br>
 <br>
 <br>
