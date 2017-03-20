@@ -26,7 +26,7 @@
                 <p> 
                 <li> Taipei, Taiwan &nbsp; 2010 to 2015 </li>
                 <li> Certificate in Mathematical Finance Program </li>
-                <li> R Programmer and Data Analyst in the Department of Management Information Systems</li>
+                <li> R Programmer in the Department of Management Information Systems</li>
                 </p>
                 </blockquote>
 </p>
