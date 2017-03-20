@@ -1,15 +1,7 @@
 <h3>About me</h3>
 
-<p><img src="/pic/houseshoe_bend.jpg" style="float:left;margin:0 20px 20px"></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p><img src="/pic/houseshoe_bend.jpg" style="float:left;margin:0 20px 20px;width:300px;height:417px"></p>
+
 <p>
   Hi! I am Ying-Chen (Alice) Chou. 
   I am now a Master student in Statistics at University of California Davis and will graduate on June 2017.
