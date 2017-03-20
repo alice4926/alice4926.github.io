@@ -1,5 +1,5 @@
 <h2> I am Ying-Chen Chou. </h2>
-<h3>Welcome to my website to know more about me, my plans and my <a class="link" href="/project">projects!</a></h3>!
+<h3>Welcome to my website to know more about me, my plans and my <a class="link" href="/project">projects</a>!</h3>
 
 <br>
 <p><img src="/pic/houseshoe_bend.jpg" style="float:right;margin:0 20px 20px;width:290px;height:417px"></p>
