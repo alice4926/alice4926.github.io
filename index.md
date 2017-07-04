@@ -10,7 +10,7 @@
 MS in Statistics, University of California Davis
         <blockquote>
                 <p> 
-                <li> Davis, CA &nbsp; 2015 to Present </li>
+                <li> Davis, CA &nbsp; 2015 to 2017 </li>
                 <li> Data Scientist Intern in UC Davis Center for Water-Energy Efficiency </li>
                 </p>
                 </blockquote>
