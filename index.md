@@ -3,7 +3,7 @@
 
 <h3> <strong>Who am I? </strong></h3>
 <p>
-  Hi! I am Ying-Chen Chou. I grow up on a beautiful country called Taiwan in East Asia and right now live in California, USA. I am a Master student in University of California Davis and will graduate on June 2017. My life goal is to become a person who can make the world better by exercing my knowledge for data and my passion for technology.
+  Hi! I am Ying-Chen Chou. I grew up on a beautiful country called Taiwan in East Asia and currently lives in California, USA. I completed my Master degree in Statistics on June 2017 and work as a Data Analyst now. My life goal is to become a person who can make the world better by exercing my knowledge for data and my passion for technology.
 </p>
 <h3> <strong>Education </strong></h3>
 <p>
