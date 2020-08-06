@@ -9,6 +9,11 @@
 <h3> <strong>Work Experience </strong></h3>
 <p>
 Data Analyst, Redtail Technology
+        <blockquote>
+                <p> 
+                <li> Sacramento, CA &nbsp; Nov 2017 to Aug 2020 </li>
+                </p>
+                </blockquote>
 </p>
 <h3> <strong>Education </strong></h3>
 <p>
