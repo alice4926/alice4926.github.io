@@ -13,7 +13,8 @@ Data Analyst, Redtail Technology
                 <p> 
                 <li> Sacramento, CA &nbsp; Nov 2017 to Aug 2020 </li>
                 </p>
-                </blockquote>
+</blockquote>
+</p>
 </p>
 <h3> <strong>Education </strong></h3>
 <p>
